@@ -36,7 +36,7 @@ export default function Home() {
   console.log("hovered image:", hoveredImage);
 
   return (
-    <div className="min-h-screen bg-white text-gray-900 antialiased">
+    <div className="min-h-screen bg-white text-gray-900 antialiased h-screen overflow-hidden">
       {/* Header */}
       {/* <header className="absolute top-0 left-0 right-0 z-20 p-6">
         <nav className="max-w-7xl mx-auto flex justify-between items-center">
