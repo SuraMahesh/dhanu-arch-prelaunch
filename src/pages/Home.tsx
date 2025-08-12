@@ -68,7 +68,7 @@ export default function Home() {
               >
                 <img
                   src={Img1}
-                  alt="Modern beachfront villa with infinity pool"
+                  alt=" beachfront villa with infinity pool"
                   className={`w-[110%] h-[110%] object-cover transition-all duration-500 ease-out animate-subtle ${
                     hoveredImage === "villa1"
                       ? "opacity-100 shadow-2xl"
@@ -114,7 +114,7 @@ export default function Home() {
               >
                 <img
                   src={Img3}
-                  alt="Modern beach house design"
+                  alt=" beach house design"
                   className={`w-[110%] h-[120%] object-cover transition-all duration-400 ease-out animate-subtle ${
                     hoveredImage === "villa3"
                       ? "opacity-100 shadow-2xl"
@@ -160,7 +160,7 @@ export default function Home() {
               >
                 <img
                   src={Img5}
-                  alt="Oceanfront villa with modern design"
+                  alt="Oceanfront villa with  design"
                   className={`w-[118%] h-[118%] object-cover transition-all duration-350 ease-out animate-subtle ${
                     hoveredImage === "villa5"
                       ? "opacity-100 shadow-2xl"
@@ -255,13 +255,13 @@ export default function Home() {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-800 mb-4 font-light">
-            Modern Architecture Studio
+             Architecture Studio
           </p>
 
           <div className="w-24 h-px bg-gray-500 mx-auto mb-8"></div>
 
           <p className="text-lg md:text-xl text-gray-800 mb-12 max-w-2xl mx-auto leading-relaxed">
-            We're crafting extraordinary modern architecture experiences.
+            We're crafting extraordinary  architecture experiences.
             <span className="block  font-medium text-gray-900">
               Coming Soon.
             </span>
