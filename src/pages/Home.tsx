@@ -255,13 +255,13 @@ export default function Home() {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-800 mb-4 font-light">
-             Architecture Studio
+            Architectural Studio
           </p>
 
           <div className="w-24 h-px bg-gray-500 mx-auto mb-8"></div>
 
           <p className="text-lg md:text-xl text-gray-800 mb-12 max-w-2xl mx-auto leading-relaxed">
-            We're crafting extraordinary  architecture experiences.
+            We're crafting extraordinary architecture experiences.
             <span className="block  font-medium text-gray-900">
               Coming Soon.
             </span>
