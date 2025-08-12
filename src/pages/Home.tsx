@@ -262,8 +262,11 @@ export default function Home() {
 
           <p className="text-lg md:text-xl text-gray-800 mb-12 max-w-2xl mx-auto leading-relaxed">
             We're crafting extraordinary modern architecture experiences.
-            <span className="block mt-2 font-medium text-gray-900">
+            <span className="block  font-medium text-gray-900">
               Coming Soon.
+            </span>
+            <span className="block text-sm text-gray-900 underline">
+              www.dhanuarch.com
             </span>
           </p>
         </div>
